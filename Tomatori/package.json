@@ -1,0 +1,28 @@
+{
+  "name": "Tomotori",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "desandro-matches-selector": "^2.0.2",
+    "dotenv": "^8.5.1",
+    "ev-emitter": "^2.1.0",
+    "express": "^4.17.1",
+    "fizzy-ui-utils": "^3.0.0",
+    "get-size": "^2.0.3",
+    "isotope-layout": "^3.0.6",
+    "jquery": "^3.6.0",
+    "luxon": "^1.26.0",
+    "masonry-layout": "^4.2.2",
+    "node-fetch": "^2.6.1",
+    "outlayer": "^2.1.1",
+    "path": "^0.12.7"
+  }
+}
